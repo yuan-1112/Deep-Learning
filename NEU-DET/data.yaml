@@ -1,0 +1,6 @@
+# Open the data.yaml file with explicit utf-8 encoding
+train: E:\desktop(zhuomian)\yolov10quexian\NEU-DET\train\images
+val: E:\desktop(zhuomian)\yolov10quexian\NEU-DET\valid\images
+
+nc: 6 #代表有几种类别
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']
